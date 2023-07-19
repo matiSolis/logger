@@ -12,11 +12,15 @@
 /- Agregado:
 
 {
-    .env: se agrego NODE_ENV = "development"
-    /config/options.js = se agrego al final nodeEnv
-    /helpers/logger.js = se creo el archivo logger.js
-    /routes/loger.router.js = se creo la ruta loggerRoute
-    app.js = se agrego app.use(addLogger);
+    1- .env: se agrego NODE_ENV = "development"
+    
+    2- /config/options.js = se agrego al final nodeEnv
+    
+    3- /helpers/logger.js = se creo el archivo logger.js
+    
+    4- /routes/loger.router.js = se creo la ruta loggerRoute
+    
+    5- app.js = se agrego app.use(addLogger);
 }
 
 
